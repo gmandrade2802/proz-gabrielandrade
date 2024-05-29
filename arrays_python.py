@@ -13,6 +13,8 @@ print("Materiais disponíveis:")
 for material in loja_de_construcao:
   print(loja_de_construcao.index(material)+1," - ", material)
 
+print("=================================")
+
 print("Ano de nascimento entre irmãos:")
 for ano in ano_nascimento_irmaos:
   print(ano_nascimento_irmaos.index(ano)+1," - ", ano)
